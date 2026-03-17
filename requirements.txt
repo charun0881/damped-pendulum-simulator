@@ -1,0 +1,12 @@
+# Core numerical computing
+numpy>=1.21.0,<2.0.0
+scipy>=1.7.0,<2.0.0
+
+# Symbolic mathematics
+sympy>=1.9,<2.0.0
+
+# Plotting and visualization
+matplotlib>=3.4.0,<4.0.0
+
+# GUI framework
+PyQt5>=5.15.0,<6.0.0
